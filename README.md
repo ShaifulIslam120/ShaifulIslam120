@@ -34,7 +34,7 @@
 ###
 
 <div align="left">
-  <a href="shaifulcit@mail.com" target="_blank">
+  <a href="shaifulcit@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/shaiful-islam-bappy" target="_blank">
